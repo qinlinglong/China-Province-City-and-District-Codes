@@ -1,6 +1,5 @@
 # China-Province-City-and-District-Codes
 
-# China Province, City, and District Codes
 
 This document provides a comprehensive list of codes for provinces, cities, and districts in China. These codes are used to uniquely identify administrative divisions within the country, facilitating various applications such as data management, geographic information systems (GIS), and address verification.
 
